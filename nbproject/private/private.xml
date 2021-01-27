@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Capstone">
+            <file>file:/C:/Users/783385/Desktop/Capstone2019/src/java/servlet/mealServlet.java</file>
+            <file>file:/C:/Users/783385/Desktop/Capstone2019/web/WEB-INF/listMeals.jsp</file>
+            <file>file:/C:/Users/783385/Desktop/Capstone2019/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/783385/Desktop/Capstone2019/src/java/database/Warehouse_KitchenJDBCUtil.java</file>
+            <file>file:/C:/Users/783385/Desktop/Capstone2019/web/WEB-INF/addMeal.jsp</file>
+            <file>file:/C:/Users/783385/Desktop/Capstone2019/src/java/servlet/addMealServelt.java</file>
+        </group>
+        <group>
+            <file>file:/C:/Users/769293/Desktop/CapstoneProject/Capstone2019/src/java/servlet/MealList.java</file>
+            <file>file:/C:/Users/769293/Desktop/CapstoneProject/Capstone2019/web/css/fixedTable.css</file>
+            <file>file:/C:/Users/769293/Desktop/CapstoneProject/Capstone2019/web/scripts/Meal_Items.jsp</file>
+            <file>file:/C:/Users/769293/Desktop/CapstoneProject/Capstone2019/web/scripts/main.jsp</file>
+            <file>file:/C:/Users/769293/Desktop/CapstoneProject/Capstone2019/web/scripts/report_new.jsp</file>
+            <file>file:/C:/Users/769293/Desktop/CapstoneProject/Capstone2019/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/769293/Desktop/CapstoneProject/Capstone2019/web/css/report_new.css</file>
+            <file>file:/C:/Users/769293/Desktop/CapstoneProject/Capstone2019/web/scripts/add.jsp</file>
+            <file>file:/C:/Users/769293/Desktop/CapstoneProject/Capstone2019/src/java/servlet/mainServlet.java</file>
+            <file>file:/C:/Users/769293/Desktop/CapstoneProject/Capstone2019/web/scripts/clients.jsp</file>
+            <file>file:/C:/Users/769293/Desktop/CapstoneProject/Capstone2019/src/java/servlet/mealServlet.java</file>
+            <file>file:/C:/Users/769293/Desktop/CapstoneProject/Capstone2019/web/scripts/edit.jsp</file>
+            <file>file:/C:/Users/769293/Desktop/CapstoneProject/Capstone2019/web/scripts/login.jsp</file>
+        </group>
+    </open-files>
+</project-private>

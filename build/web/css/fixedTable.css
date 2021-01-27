@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27-Feb-2020, 9:10:45 AM
+    Author     : jlnnf
+*/
+body{
+    overflow-y: scroll;
+overflow-x: hidden;
+}
+.tableFixHead {
+  overflow-y: auto;
+  height: 400px;
+}
+
+.tableFixHead table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.tableFixHead th,
+.tableFixHead td {
+  padding: 8px 16px;
+}
+
+.tableFixHead th {
+  position: sticky;
+  top: 0;
+  background: #eee;
+}
+
+.tableFixHead td
+{
+    color: black;
+}

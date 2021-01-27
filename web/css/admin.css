@@ -1,0 +1,112 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 26, 2020, 9:21:15 PM
+    Author     : 769293
+*/
+
+
+#manageUsers 
+{
+    width: 70%;
+}
+.input-container{
+     display: -ms-flexbox; /* IE10 */
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.icon{
+    padding: 10px;
+  background: dodgerblue;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+}
+
+.input-field{
+     width: 20%;
+  padding: 5px;
+  outline: none;
+}
+
+.input-field:focus {
+  border: 2px solid dodgerblue;
+}
+
+#addUserForm{
+    border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  width: 50%;
+  margin-left: 25%;
+  border-style: groove;
+  
+
+}
+
+#saveUser{
+ float: right;   
+}
+
+#editUserForm{
+    border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+   width: 50%;
+  margin-left: 25%;
+  border-style: groove;
+  
+
+}
+
+.fadeInDown {
+             opacity:0;
+  -webkit-animation:fadeIn ease-in 1;
+  -moz-animation:fadeIn ease-in 1;
+  animation:fadeIn ease-in 1;
+
+  -webkit-animation-fill-mode:forwards;
+  -moz-animation-fill-mode:forwards;
+  animation-fill-mode:forwards;
+
+  -webkit-animation-duration:1s;
+  -moz-animation-duration:1s;
+  animation-duration:1s;
+         }
+
+@-webkit-keyframes fadeInDown { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes fadeInDown { from { opacity:0; } to { opacity:1; } }
+@keyframes fadeInDown { from { opacity:0; } to { opacity:1; } }
+
+
+/* Simple CSS3 Fade-in Animation */
+@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+
+.fadeIn {
+  opacity:0;
+  -webkit-animation:fadeIn ease-in 1;
+  -moz-animation:fadeIn ease-in 1;
+  animation:fadeIn ease-in 1;
+
+  -webkit-animation-fill-mode:forwards;
+  -moz-animation-fill-mode:forwards;
+  animation-fill-mode:forwards;
+
+  -webkit-animation-duration:1s;
+  -moz-animation-duration:1s;
+  animation-duration:1s;
+}
+
+input.input-field
+{
+    background-color : #d1d1d1; 
+    width: 10%;
+
+}
